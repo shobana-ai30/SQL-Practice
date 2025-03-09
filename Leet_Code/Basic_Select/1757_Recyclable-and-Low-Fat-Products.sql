@@ -1,11 +1,5 @@
--- Problem: 
+-- Problem: 1757
 -- Difficulty: Easy
--- Table: 
--- Columns: 
-
--- Solution:
-
-
 -- Question : Write a solution to find the ids of products that are both low fat and recyclable. Return the result table in any order.
 Table : Products
 
