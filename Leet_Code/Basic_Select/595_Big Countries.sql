@@ -2,7 +2,7 @@
  Level : Easy
  Question : Write a solution to find the name, population, and area of the big countries.
  Table: World
-
+ 
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
